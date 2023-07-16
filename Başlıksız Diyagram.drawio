@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-16T17:59:11.301Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="RM0qrO08YoP6aSu_R9U6" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-16T18:26:48.687Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="9oy7hua3QxHiPm84MXln" version="21.6.1" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1436" dy="1809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -347,7 +347,7 @@
           <mxGeometry x="1610" y="-890" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SZdknbBRZ-7V8nla-wDM-750" value="ER DİAGRAM:" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" parent="1" vertex="1">
-          <mxGeometry x="1380" y="-1000" width="140" height="160" as="geometry" />
+          <mxGeometry x="1400" y="-970" width="140" height="160" as="geometry" />
         </mxCell>
         <mxCell id="SZdknbBRZ-7V8nla-wDM-751" value="DATABASE DESİGN MAP:&lt;br&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="-310" width="140" height="160" as="geometry" />
