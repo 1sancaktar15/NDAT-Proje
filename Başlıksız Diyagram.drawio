@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-21T12:47:21.755Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="SBILjHufNrFcCdpN2hBO" version="21.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-21T12:48:11.804Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="B_H3UP1r8sBBqnLJcnjt" version="21.6.3" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1159" dy="4063" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="712" dy="3893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -662,7 +662,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="653yuzhnm4IBXowQmdNP-14" value="SON OLARAK KARAR VERILEN DATABASE DESIGN ŞEMASI:" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="1175" y="-1920" width="140" height="160" as="geometry" />
+          <mxGeometry x="1190" y="-1910" width="140" height="160" as="geometry" />
         </mxCell>
         <mxCell id="653yuzhnm4IBXowQmdNP-45" value="PROGRAM_EXERCISE" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
           <mxGeometry x="1910" y="-1920" width="270" height="150" as="geometry" />
@@ -1019,7 +1019,7 @@
         <mxCell id="653yuzhnm4IBXowQmdNP-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=link;" edge="1" parent="1" source="653yuzhnm4IBXowQmdNP-140" target="653yuzhnm4IBXowQmdNP-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="653yuzhnm4IBXowQmdNP-213" value="FITTNESS DB" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;fillColor=#FFF4C3;" vertex="1" parent="1">
+        <mxCell id="653yuzhnm4IBXowQmdNP-213" value="FITTNESS DB" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;fillColor=#FFF4C3;width=110;height=40;" vertex="1" parent="1">
           <mxGeometry x="1160" y="-1960" width="1230" height="680" as="geometry" />
         </mxCell>
       </root>
